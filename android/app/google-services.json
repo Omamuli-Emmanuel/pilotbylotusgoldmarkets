@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "157402636843",
+    "project_id": "pilot-f59b1",
+    "storage_bucket": "pilot-f59b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157402636843:android:a87d00474df3c18971806e",
+        "android_client_info": {
+          "package_name": "com.lotusgoldmarkets.pilot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATWB3A8nSxP63nv1nGFJBK4A8As3DmPKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
